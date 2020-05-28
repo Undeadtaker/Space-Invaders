@@ -2,6 +2,9 @@
 
 These are only the python files that can be found. The whole project along with the assets/images/sounds can be found uploaded on Edesktop. 
 
+# HOW TO START SINGLEPLAYER
+Run Main.py
+
 # HOW TO START MULTIPLAYER 
 
 1) Open up LanGame.py and LanGame1.py
